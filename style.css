@@ -44,7 +44,7 @@
       letter-spacing: .2rem;
   }
 
-  .heading::before,
+  /* .heading::before,
   .heading::after {
       content: '';
       position: absolute;
@@ -63,7 +63,7 @@
       bottom: -.5rem;
       right: -2rem;
       transform: rotate(180deg);
-  }
+  } */
 
   .features {
       width: 100%;
